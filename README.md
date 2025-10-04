@@ -134,7 +134,7 @@ Would you like to perform another conversion? (yes/no):
 - **Platforms**:
   - Windows 10 21H2
   - Kali Linux (2025.2)
-  - Termux (Android 12+)
+  - Termux (Android 13)
 - **Verified scenarios**:
   - Working with different currencies
   - Network error handling
