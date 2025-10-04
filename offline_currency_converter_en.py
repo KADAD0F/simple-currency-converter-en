@@ -464,7 +464,7 @@ Automated tests:
 Manual testing:
 - Windows 10 21H2: All functions working correctly, including special character display
 - Kali Linux (2025.2): Successfully tested, proper localization handling
-- Termux (Android 12+): All features available, including local database storage
+- Termux (Android 13): All features available, including local database storage
 
 Acknowledgments:
 - Original script development by kadagog
