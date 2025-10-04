@@ -1,4 +1,4 @@
-# Offline Currency Converter en
+# Currency Converter en
 
 ## Description
 A currency converter with offline support that allows converting amounts between various currencies using up-to-date exchange rates. The script automatically fetches data from APIs, saves it locally, and can operate without an internet connection by using cached data.
